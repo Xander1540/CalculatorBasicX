@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculatorBasicX</string>
+    <string name="sign">THE X COMPANY</string>
+    <string name="num1">Enter number 1</string>
+    <string name="num2">Enter number 2</string>
+    <string name="add">ADD</string>
+    <string name="div">Divide</string>
+    <string name="a">+</string>
+    <string name="b">-</string>
+    <string name="c">X</string>
+    <string name="d">÷</string>
+</resources>
